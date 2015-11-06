@@ -15,7 +15,7 @@
 			<key>comment</key>
 			<string>Todo item priority</string>
 			<key>match</key>
-			<string>^\([A-Z]\)</string>
+			<string>^\[[a-z]\]</string>
 			<key>name</key>
 			<string>constant.language.todotxt.priority</string>
 		</dict>
