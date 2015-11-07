@@ -39,9 +39,9 @@
 			<key>comment</key>
 			<string>Done Todo item</string>
 			<key>match</key>
-			<string>^x\s.*$</string>
+			<string>^p\s.*$</string>
 			<key>name</key>
-			<string>comment.line.todotxt</string>
+			<string>constant.line.todotxt</string>
 		</dict>
 		<dict>
 			<key>comment</key>
